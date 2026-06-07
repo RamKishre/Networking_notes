@@ -19,7 +19,20 @@ Convert 192
 192 = 128 + 64
 Binary: 11000000
 
-
 Convert 168
 168 = 128 + 32 + 8
 Binary: 10101000
+
+Convert 1
+1 = 1
+Binary: 00000001
+
+Convert 10
+10 = 8 + 2
+Binary: 00001010
+
+
+Final Result
+192.168.1.10 = 11000000.10101000.00000001.00001010
+
+// This will be the address read by computer
